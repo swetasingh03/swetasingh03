@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/0a/cf/d2/0acfd2804965ea092c8d23b524e588a5.gif)
-<h1 align="center">Hi 👋, welcome to my Github</h1>
+<h1 align="left">Hi 👋, welcome to my Github</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.zellusmarketing.com/wp-content/uploads/2021/06/Rocket-Digital-Marketing-Gif-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetasingh03&label=Profile%20views&color=0e75b6&style=flat" alt="swetasingh03" /> </p>

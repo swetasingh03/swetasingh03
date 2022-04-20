@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0a/cf/d2/0acfd2804965ea092c8d23b524e588a5.gif)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--JkC8AdQ0--/c_fill,f_auto,fl_progressive,h_320,q_66,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/841057/4ae2a0e7-d5e4-4a71-bf51-f6593e86ecbe.gif)
 <h1 align="left">Hi 👋, welcome to my Github</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.zellusmarketing.com/wp-content/uploads/2021/06/Rocket-Digital-Marketing-Gif-1.gif">
